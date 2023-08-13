@@ -8,3 +8,4 @@ Helpful resources for full stack interview prep: Code challenges, blogs, etc.
 - [To Do App - React](https://codesandbox.io/s/to-do-app-practice-forked-52nsyh)
 - [Nested Drop Down Menu in React](https://codesandbox.io/s/nested-drop-down-menu-7678cx?file=/src/App.js)
   - [Question on YouTube](https://youtu.be/EirBuUUPbio)
+- [Fetching data from API (datamuse)](https://codesandbox.io/s/fetch-data-from-api-6tz4ys?file=/src/App.js)
