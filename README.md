@@ -14,4 +14,5 @@ Helpful resources for full stack interview prep: Code challenges, blogs, etc.
 
 ### JavaScript
 
+- [JavaScript Interview Prep Cheatsheet](https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/)
 - [How Web Storage Works – Local Storage vs Session Storage Explained](https://www.freecodecamp.org/news/how-web-storage-works/)
