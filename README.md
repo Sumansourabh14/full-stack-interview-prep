@@ -39,6 +39,12 @@ Helpful resources for full stack interview prep: Code challenges, blogs, etc.
 - Debounce vs Throttle
 - Prototypical Inheritance
 
+## React
+
+- What is React and how is it different from other JavaScript frameworks?
+      - Virtual DOM, view oriented, unidirectional data flow (parent to child), component-based architecture
+- Virtual DOM
+
 ## Code Sandboxes - Code Challenges
 
 ### React
