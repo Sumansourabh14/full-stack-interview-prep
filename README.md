@@ -42,9 +42,21 @@ Helpful resources for full stack interview prep: Code challenges, blogs, etc.
 ## React
 
 - What is React and how is it different from other JavaScript frameworks?
-- Virtual DOM, view oriented, unidirectional data flow (parent to child), component-based architecture
+    - Virtual DOM, view oriented, unidirectional data flow (parent to child), component-based architecture
 - Virtual DOM
 - Reconciliation (How does React handles updates and rendering?)
+     - Diffing Alogrithm
+- How does data flow?
+    - Props
+    - State
+- Difference between SSR (Server side rendering) and CSR (Client side rendering)
+- Ref and its uses in React
+- Why were hooks introduced?
+
+### Advanced
+
+- What is React Fiber?
+- What are synthetic events?
 
 ## Code Sandboxes - Code Challenges
 
