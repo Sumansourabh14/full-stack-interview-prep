@@ -34,7 +34,7 @@ Helpful resources for full stack interview prep: Code challenges, blogs, etc.
     - How to exit callbacks
     - Promises implementation
     - How to manage those 3 states
-    - How to do 2 parallel requests
+    - How to do 2 parallel requests: https://rapidapi.com/guides/parallel-api-requests
     - How to do sub sequential requests
 - Debounce vs Throttle
 - Prototypical Inheritance
