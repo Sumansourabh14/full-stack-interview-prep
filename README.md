@@ -15,7 +15,7 @@ Helpful resources for full stack interview prep: Code challenges, blogs, etc.
     - Examples of closures
 - Functional Programming
     - Functions
-      - Pure functions
+      - [Pure functions](https://dev.to/codeofrelevancy/you-need-to-know-about-pure-functions-impure-functions-in-javascript-57#:~:text=A%20pure%20function%20is%20a,always%20return%20the%20same%20value.)
       - First class functions
     - Polyfills of map, filter, reduce
     - Curring
