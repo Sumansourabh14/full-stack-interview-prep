@@ -69,6 +69,8 @@ Helpful resources for full stack interview prep: Code challenges, blogs, etc.
 
 ## Resources
 
+- [How the web works - MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+
 ### JavaScript
 
 - [JavaScript Interview Prep Cheatsheet](https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/)
