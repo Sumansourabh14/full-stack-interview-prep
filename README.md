@@ -74,6 +74,7 @@ Helpful resources for full stack interview prep: Code challenges, blogs, etc.
     - [How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)](https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/)
     - [Part II: Client-Server Model & the Structure of a Web Application](https://medium.com/free-code-camp/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3)
     - [Part III: HTTP & REST](https://medium.com/free-code-camp/how-the-web-works-part-iii-http-rest-e61bc50fa0a)
+- [What are cookies? (by cloudfare)](https://www.cloudflare.com/learning/privacy/what-are-cookies/)
 
 
 ### JavaScript
