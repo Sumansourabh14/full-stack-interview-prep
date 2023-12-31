@@ -41,6 +41,7 @@ Helpful resources for full stack interview prep: Code challenges, blogs, etc.
 
 ## React
 
+- [Top 12 React Interview Questions 🔥 for Freshers & Experienced](https://youtu.be/uE925hp9KDk?si=fnFmLCXHX8EJL48m)
 - What is React and how is it different from other JavaScript frameworks?
     - Virtual DOM, view oriented, unidirectional data flow (parent to child), component-based architecture
 - Virtual DOM
