@@ -75,6 +75,7 @@ Helpful resources for full stack interview prep: Code challenges, blogs, etc.
     - [Part II: Client-Server Model & the Structure of a Web Application](https://medium.com/free-code-camp/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3)
     - [Part III: HTTP & REST](https://medium.com/free-code-camp/how-the-web-works-part-iii-http-rest-e61bc50fa0a)
 - [What are cookies? (by cloudfare)](https://www.cloudflare.com/learning/privacy/what-are-cookies/)
+- [What is CSR, SSR, SSG, and ISR?](https://youtu.be/YkxrbxoqHDw?si=W6VmsegAofYSibo_)
 
 
 ### JavaScript
