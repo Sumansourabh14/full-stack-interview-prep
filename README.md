@@ -77,6 +77,7 @@ Helpful resources for full stack interview prep: Code challenges, blogs, etc.
     - [Part III: HTTP & REST](https://medium.com/free-code-camp/how-the-web-works-part-iii-http-rest-e61bc50fa0a)
 - [What are cookies? (by cloudfare)](https://www.cloudflare.com/learning/privacy/what-are-cookies/)
 - [What is CSR, SSR, SSG, and ISR?](https://youtu.be/YkxrbxoqHDw?si=W6VmsegAofYSibo_)
+- [React SEO and Best Practices](https://ahrefs.com/blog/react-seo/)
 
 
 ### JavaScript
