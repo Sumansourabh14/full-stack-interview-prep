@@ -86,3 +86,4 @@ Helpful resources for full stack interview prep: Code challenges, blogs, etc.
 - [Critical rendering path (MDN)](https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path)
 - [How Web Storage Works – Local Storage vs Session Storage Explained](https://www.freecodecamp.org/news/how-web-storage-works/)
 - [The most popular JavaScript interview question: Can you get setTimeout() to behave?](https://medium.com/@mlgerardvla/the-most-popular-javascript-interview-question-can-you-get-settimeout-to-behave-972afceda50d)
+- [<code>this</code> keyword in JavaScript](https://youtu.be/9T4z98JcHR0?si=oFSSrv2rYtSbYlZk)
