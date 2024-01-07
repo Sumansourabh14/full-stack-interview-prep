@@ -1,5 +1,7 @@
 # Full Stack Interview Prep
-Helpful resources for full stack interview prep: Code challenges, blogs, etc.
+### Helpful resources for full stack interview preparation: Code challenges, blogs, etc.
+
+- Includes resources on Web fundamentals, HTML, CSS, JavaScript, React, SEO, Database (MongoDB), etc.
 
 ## JavaScript
 
