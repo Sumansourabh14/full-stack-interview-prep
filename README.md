@@ -70,6 +70,8 @@ Helpful resources for full stack interview prep: Code challenges, blogs, etc.
 
 ## Resources
 
+### Web
+
 - [How the web works - MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 - How the Web Works (3 Part Series):
     - [How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)](https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/)
@@ -77,8 +79,10 @@ Helpful resources for full stack interview prep: Code challenges, blogs, etc.
     - [Part III: HTTP & REST](https://medium.com/free-code-camp/how-the-web-works-part-iii-http-rest-e61bc50fa0a)
 - [What are cookies? (by cloudfare)](https://www.cloudflare.com/learning/privacy/what-are-cookies/)
 - [What is CSR, SSR, SSG, and ISR?](https://youtu.be/YkxrbxoqHDw?si=W6VmsegAofYSibo_)
-- [React SEO and Best Practices](https://ahrefs.com/blog/react-seo/)
 
+### Database
+
+- [What is a serverless database?](https://www.cockroachlabs.com/blog/what-is-a-serverless-database/)
 
 ### JavaScript
 
@@ -87,3 +91,7 @@ Helpful resources for full stack interview prep: Code challenges, blogs, etc.
 - [How Web Storage Works – Local Storage vs Session Storage Explained](https://www.freecodecamp.org/news/how-web-storage-works/)
 - [The most popular JavaScript interview question: Can you get setTimeout() to behave?](https://medium.com/@mlgerardvla/the-most-popular-javascript-interview-question-can-you-get-settimeout-to-behave-972afceda50d)
 - [<code>this</code> keyword in JavaScript](https://youtu.be/9T4z98JcHR0?si=oFSSrv2rYtSbYlZk)
+
+### React
+
+- [React SEO and Best Practices](https://ahrefs.com/blog/react-seo/)
