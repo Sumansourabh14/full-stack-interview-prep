@@ -75,12 +75,14 @@
 ### Web
 
 - [How the web works - MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
-- How the Web Works (3 Part Series):
+- **How the Web Works (3 Part Series):**
     - [How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)](https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/)
     - [Part II: Client-Server Model & the Structure of a Web Application](https://medium.com/free-code-camp/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3)
     - [Part III: HTTP & REST](https://medium.com/free-code-camp/how-the-web-works-part-iii-http-rest-e61bc50fa0a)
 - [What are cookies? (by cloudfare)](https://www.cloudflare.com/learning/privacy/what-are-cookies/)
 - [What is CSR, SSR, SSG, and ISR?](https://youtu.be/YkxrbxoqHDw?si=W6VmsegAofYSibo_)
+- **Server Side Programming:**
+     - [Introduction to the server side](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)
 
 ### Database
 
